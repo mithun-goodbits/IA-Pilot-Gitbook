@@ -17,3 +17,13 @@ Description
 Description
 
 </details>
+
+#### 26 June 2022 - Change log
+
+<details>
+
+<summary>Change log title</summary>
+
+description
+
+</details>
