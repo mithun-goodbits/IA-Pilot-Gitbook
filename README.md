@@ -1,10 +1,10 @@
 # IA - Version Change Log
 
-#### 27 June 2022 -  Change log
+#### Change log - 27 June 2022  &#x20;
 
 <details>
 
-<summary><strong>Change log title</strong></summary>
+<summary><strong>Feature  1</strong> </summary>
 
 Description
 
@@ -12,17 +12,17 @@ Description
 
 <details>
 
-<summary>Change Log title 2</summary>
+<summary>Feature 2</summary>
 
 Description
 
 </details>
 
-#### 26 June 2022 - Change log
+#### Change log - 26 June 2022
 
 <details>
 
-<summary>Change log title</summary>
+<summary>Feature 1</summary>
 
 description
 
