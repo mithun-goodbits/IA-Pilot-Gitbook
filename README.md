@@ -22,7 +22,7 @@ Description
 
 <details>
 
-<summary>Feature 1</summary>
+<summary>Feature new</summary>
 
 description
 
