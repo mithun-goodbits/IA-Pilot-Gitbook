@@ -1,5 +1,183 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.0.2
+
+<details>
+
+<summary><strong>Feature 1: Notifications</strong></summary>
+
+October 20,2022
+
+1.Added Notification for the tagee when tagging email, include bell icon with number of starred/tagged emails for particular user
+
+</details>
+
+<details>
+
+<summary><strong>Feature 2: Displaying the warnings</strong></summary>
+
+October 20,2022
+
+1**.**Displayed block chain warnings on successfully published emails/files.
+
+
+
+</details>
+
+<details>
+
+<summary><strong>Feature 3: XLSM file processing</strong></summary>
+
+October 20.2022
+
+1.Added Support for XLSM file type (Excel Macro) processing in IA.
+
+
+
+
+
+</details>
+
+<details>
+
+<summary><strong>Feature 4: Hot queue rules and notes</strong></summary>
+
+October 20,2022
+
+1.Hot queue- Added the ability for the user to add notes against each rule they create - notes are not mandatory.
+
+2.Added the ability for users to view hot-queue rules and notes from the user dashboard, hot-queue tab
+
+
+
+
+
+
+
+</details>
+
+<details>
+
+<summary><strong>Feature 5: Search filter redesign</strong></summary>
+
+October 20,2022
+
+1.Search filter redesign- Updated the Move read/unread filters inside the search pane.
+
+
+
+
+
+</details>
+
+<details>
+
+<summary>Feature 6: Bulk product upload</summary>
+
+October 20,2022
+
+1.IA PMDB - Added the ability to bulk create products via CSV/xlsx file upload in prescribed format.
+
+
+
+</details>
+
+<details>
+
+<summary><strong>Feature 7: Product download</strong></summary>
+
+October 20,2022
+
+1.Added the ability to download product information.
+
+
+
+</details>
+
+<details>
+
+<summary><strong>Feature 8: Sorting</strong></summary>
+
+October 20 ,2022
+
+1.Added the ability for the user to sort the hot queue page - based on all columns displayed, in ascending and descending order.
+
+2.Sender management- Added the ability to sort the list of senders based on all columns in ascending or descending order.
+
+
+
+</details>
+
+<details>
+
+<summary>Feature 9: Products listing inside the sender profile</summary>
+
+October 20,2022
+
+1.Sender Management - listed the products which are successfully published by each sender inside the profile of the sender.
+
+
+
+</details>
+
+<details>
+
+<summary><strong>Feature 10: Settings Page</strong></summary>
+
+October  20 ,2022
+
+1.Created a new Settings page
+
+
+
+</details>
+
+<details>
+
+<summary>Feature 11: Manual Upload</summary>
+
+October 20 ,2022
+
+1.Added the ability to Manual upload more than 1 file at a time
+
+
+
+</details>
+
+<details>
+
+<summary><strong>Feature 12: UI updates</strong></summary>
+
+October  20 ,2022
+
+1.Updated the UI of Product management page
+
+2.Updated the UI of User management page
+
+3.Updated the UI of Overview/Client reports
+
+4.Updated the UI of Overview/User reports
+
+5**.**Updated the UI of Overview/reports
+
+
+
+
+
+</details>
+
+<details>
+
+<summary>Bug Fixes</summary>
+
+October 20,2022
+
+1.Removed the Image file from the Hot queue items in the dashboard
+
+</details>
+
+
+
 #### Change log - Version 1.0.1
 
 <details>
