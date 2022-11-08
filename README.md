@@ -55,6 +55,7 @@ October 31, 2022
 1. Added Notes and Instructions tabs
 2. Updated the Character length of Notes and Instructions to 2000 Characters.
 3. Added a pop-up while the user clicks on the hot queue status
+4. Added the functionality to display remaining characters to reach the 2000 characters limit in HotQueue notes and instructions
 
 </details>
 
@@ -76,7 +77,7 @@ October 31, 2022
 
 1. Changed the Tagged User Quick Search. While searching, it will show all the tagged items of the user/users selected without affecting the main search panel.
 2. If users are already selected in Tagged User Quick Search and want to do a search in the main panel page, Then click on search in the main search panel, it will clear any users already in the Tagged User Quick Search before performing the search.
-3. If the "all" checkbox is selected, then the date fields will get grayed.
+3. If the "all" checkbox is selected, then the date fields will get grayed, and added a text by saying "Unselect All to change date".
 
 </details>
 
