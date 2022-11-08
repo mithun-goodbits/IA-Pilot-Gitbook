@@ -15,6 +15,24 @@ October 31, 2022
 5. Changed the Selected emails are white, and items not selected are shaded.
 6. Fixed at a certain number of characters of email address information.
 7. Changed the sliders to adjust their respective window without adjusting the other window
+8. Improved the design while resizing the User and Sender reports section.
+9. White space after the subject line is removed.
+10. The inconsistent height of the emails was removed.
+
+</details>
+
+<details>
+
+<summary>UI Updates - Reports</summary>
+
+October 31, 2022
+
+1. File Analysis changed to Workflow Status Analysis. On Hovering over the title, the following text “Analysis of Workflow statuses predicted with a unit price fundtag” is added.
+2. Product Analysis changed to Unit Price Records Analysis. On Hovering over the title, the following text “Number of individual records of products with unit price information and dates” is added.
+3. On Hovering over the Files title, the following text “Processed files by IA predicted by IA with unit price fundtag” is added.
+4. On Hovering over Workflow Status Analysis Emails, the following text “Total number of emails that have an IA unit price fundtag prediction” is added.
+5. On Hovering over Files Emails, the following text “Total number of emails that have an IA unit price tag prediction but excluding emails that do not have any processed files such as Quarantine and EWOA” is added
+6. On Hover over Files total, the following text “ Total is the number of files processed by IA. Total does not usually include Quarantine and EWOA as there are usually no files processed by IA for those" is added.
 
 </details>
 
