@@ -1,5 +1,48 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.0.4
+
+<details>
+
+<summary><strong>Search Filter Redesign</strong></summary>
+
+November 14, 2022
+
+1. Removed the locked dates for Read and Unread checkboxes.
+
+</details>
+
+<details>
+
+<summary><strong>Blockchain Warnings</strong></summary>
+
+November 14, 2022
+
+1. Changed the W6003 warning from “Set to Repair Queue” to “Set to Republish”.
+
+</details>
+
+<details>
+
+<summary>Notification Improvements</summary>
+
+November 14, 2022
+
+1. Added a refresh button in the notification section.
+2. Added the refresh functionality while clicking on the notification bell icon.
+
+</details>
+
+<details>
+
+<summary>Bug Fixes</summary>
+
+November 14, 2022
+
+1. Fixed the bug in the hot queue section. The bug was when clicking on either Notes or Instructions it results in a blank page.
+
+</details>
+
 #### Change log - Version 1.0.3
 
 <details>
