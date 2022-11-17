@@ -1,5 +1,40 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.0.5
+
+<details>
+
+<summary><strong>Search filter Modifications</strong></summary>
+
+November 17, 2022
+
+1. The user is now able to search the All with “Read”, and “Unread” combinations.
+2. Added Read and Unread filter functionality with whole data.
+3. The All checkbox will get dissected automatically when the user selects some specific date fields.
+
+</details>
+
+<details>
+
+<summary><strong>Unwanted space removal</strong></summary>
+
+November 17, 2022
+
+1. Removed unwanted white space in product names published by Blockchain
+
+</details>
+
+<details>
+
+<summary>Cumulative email analysis</summary>
+
+November 17, 2022
+
+1. Added cumulative email analysis section in the admin dashboard(Reports section).
+2. The repair queue count in the cumulative email section will not change if an already existing error email item is resolved.
+
+</details>
+
 #### Change log - Version 1.0.4
 
 <details>
