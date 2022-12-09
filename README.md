@@ -1,5 +1,105 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.0.6
+
+<details>
+
+<summary>Naming Convention for Bulk Downloaded Files (product details)</summary>
+
+09 December 2022
+
+1. When the search field is blank, then the download option downloads all products to a file called IA PMDB Products All \_downloaded date-24hrtime.csv
+2. Otherwise, it downloads the products that match the search to a file called IA PMDB Products Search by xxxxxx\_downloaded date-24time.csv
+
+</details>
+
+<details>
+
+<summary>Manual Upload Improvements</summary>
+
+09 December 2022
+
+1. Added the ability to view the list of selected files, and add/remove files from the list
+
+</details>
+
+<details>
+
+<summary>Info against settings items</summary>
+
+09 December 2022
+
+1. Settings page- added an information button against all items in the settings page, and display information regarding that setting when clicked.
+
+</details>
+
+<details>
+
+<summary>Tagged user list selection</summary>
+
+09 December 2022
+
+1. Settings page- Added the ability for the user to set a list of users, who should be showing up on their starred emails filter
+
+</details>
+
+<details>
+
+<summary>Watch Expiry Alert</summary>
+
+09 December 2022
+
+1. Created an alert for when the watch expiry is in less than 6 days
+
+</details>
+
+<details>
+
+<summary>Additional Identifier in the product detail section</summary>
+
+09 December 2022
+
+1. Added the ability for users to add additional identifiers (in addition to the primary identifier) in the product details section.
+
+</details>
+
+<details>
+
+<summary>Mail detail section improvements</summary>
+
+09 December 2022
+
+1. The subject in the mail detail section is trimmed. This section should be dynamic when the user does resize the mail detail section.
+
+</details>
+
+<details>
+
+<summary>Sender management pagination modification</summary>
+
+09 December 2022
+
+1. Sender management- Reduce the number of items per page from 100 to 25, to make the loading faster.
+
+</details>
+
+<details>
+
+<summary>Bug Fixes</summary>
+
+09 December 2022
+
+1. Fixed the Emails received in the fund data mailbox that is sometimes not fetched by IA issue.
+2. Incorrect HP error assignment on new products. (Different unique id, but same product name/sender product name )
+3. IA is not fetching emails released from quarantine.
+4. Click on a notification item with multiple files/errors. Upon resolving one, it goes back to the home page
+5. The notification number is incorrect - When the user resolves one tagged email then the count of the notification section is reduced. Even though the mail gets resolved the count should not be reduced unless the user untagged that email from the user.
+6. Fixed the EWKA error occurring for the Hot queued mail issue.
+
+
+
+</details>
+
 #### Change log - Version 1.0.5
 
 <details>
