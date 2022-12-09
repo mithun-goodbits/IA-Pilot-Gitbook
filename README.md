@@ -85,6 +85,16 @@
 
 <details>
 
+<summary>Change text for SE5024,SE5025,SE5026 Error codes</summary>
+
+09 December 2022
+
+1. Changed the error code text for SE5024, SE5025, and SE5026 error codes according to the value set from the Django admin section.
+
+</details>
+
+<details>
+
 <summary>Bug Fixes</summary>
 
 09 December 2022
