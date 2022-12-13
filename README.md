@@ -1,5 +1,60 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.0.7
+
+<details>
+
+<summary>Error Text Updation</summary>
+
+13 December 2022
+
+1. Updated the error code text  SE5024, SE5025, and SE5026 to "For the product (Fund name), Predicted \_\_\_\_ is greater than XXXX"
+
+</details>
+
+<details>
+
+<summary>Notification Improvements</summary>
+
+13 December 2022
+
+1. Removed the cross button for deleting the notifications.
+
+</details>
+
+<details>
+
+<summary>Settings Page Modification</summary>
+
+13 December 2022
+
+1. Updated the tagged user dropdown list to be individual
+2. Added infinite scroll to user dropdown
+3. Updated the Preference to only show the selected users in the drop-down list\
+
+
+</details>
+
+<details>
+
+<summary>Displaying the Processed Sheet Name</summary>
+
+13 December 2022
+
+1. Displayed the Spreadsheet's processed Tab(sheet) name for each processed file- on the details pane.
+
+</details>
+
+<details>
+
+<summary>Overview>Metrics- The number against Repair queue changes to 0</summary>
+
+13 December 2022
+
+1. The number against the Repair queue is now fixed even if the status is changed to resolved.
+
+</details>
+
 #### Change log - Version 1.0.6
 
 <details>
