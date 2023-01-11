@@ -1,5 +1,73 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.0.8
+
+<details>
+
+<summary>User dashboard- added a refresh button to fetch new emails</summary>
+
+11 January 2023
+
+1. Added the functionality of enabling a refresh button only when there are new emails
+
+</details>
+
+<details>
+
+<summary>Limits updation from the Settings page</summary>
+
+11 January 2023
+
+1. Price limits for nav\_a, entry\_a, and exit\_a are added to the settings page.
+2.  Price limits can be updated universally, and not for individual senders from Settings Page.
+
+
+
+</details>
+
+<details>
+
+<summary>Web application optimization tasks</summary>
+
+11 January 2023
+
+1. Reduced the user dashboard loading time
+2. Changed the direct DB queries for the metrics portion in the admin dashboard.
+
+</details>
+
+<details>
+
+<summary>URLs in the Hot queue notes and instructions section.</summary>
+
+11 January 2023
+
+1. Added the ability to copy the notes and instructions in the hot queue popup in the user dashboard.
+2. Added the ability to view the URLs if any in notes and instructions.
+
+</details>
+
+<details>
+
+<summary>Added time intervals</summary>
+
+11 January 2023
+
+1. Added time intervals in the x-axis point for all the graphs having time
+2. Changed the x-axis in the form 12 am - 1 am instead of just 1 am
+
+</details>
+
+<details>
+
+<summary>Bug fixes</summary>
+
+11 January 2023
+
+1. In the User dashboard, the Tagged user list is not showing correctly
+
+</details>
+
 #### Change log - Version 1.0.7
 
 <details>
