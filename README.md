@@ -1,5 +1,37 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.0.9
+
+<details>
+
+<summary>Settings Page Improvements</summary>
+
+19 January 2023
+
+1. Added the following headings System wide universal setting, Individual User Settings in the Settings page.
+
+</details>
+
+<details>
+
+<summary>Reports Page Improvements</summary>
+
+19 January 2023
+
+1. Added No action required and no of email count while hovering over the data visualization bar.
+
+</details>
+
+<details>
+
+<summary>Performance improvements</summary>
+
+19 January 2023
+
+1. Optimized the APIs in the trend analysis section to improve the performance of the application.
+
+</details>
+
 #### Change log - Version 1.0.8
 
 <details>
