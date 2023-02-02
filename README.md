@@ -1,5 +1,38 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.1.0
+
+<details>
+
+<summary>Performance Improvements</summary>
+
+01 February 2023
+
+1. User Dashboard optimization completed
+2. Added new check in refresh logic on the user dashboard section
+
+</details>
+
+<details>
+
+<summary>Change in tag notification text</summary>
+
+01 February 2023
+
+1. Changed the sentence to \[Tagger] tagged you, \[+ other Tagged Users] in the mail. Reason being \[Reason]
+
+</details>
+
+<details>
+
+<summary>Bug fixes</summary>
+
+01 February 2023
+
+1. Instead of showing EWOA status, the emails that come under hot queue mail should show up in the Hot queue status.
+
+</details>
+
 #### Change log - Version 1.0.9
 
 <details>
