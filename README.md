@@ -10,6 +10,7 @@
 
 1. User Dashboard optimization completed
 2. Added new check in refresh logic on the user dashboard section
+3. Optimized the workflow analysis section.
 
 </details>
 
