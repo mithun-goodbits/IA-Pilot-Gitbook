@@ -1,5 +1,58 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.1.1
+
+<details>
+
+<summary>Product Lookup redesign</summary>
+
+09 February 2023
+
+1. Added table view in the graph section.
+2. Added more product-related details.
+
+</details>
+
+<details>
+
+<summary>Changes in Product Add and edit Popup</summary>
+
+09 February 2023
+
+1. Added more product-related fields in the Product add and edit popup sections.
+
+</details>
+
+<details>
+
+<summary>Product management - self-publisher, private product</summary>
+
+09 February 2023
+
+1. Added Self-publisher and private checkboxes in the Product add popup.
+
+</details>
+
+<details>
+
+<summary>Show Repair queue error messages in the email summary section</summary>
+
+09 February 2023
+
+1. If there are warnings and repair errors for an email, should display the repair queue error messages in the email summary section.
+
+</details>
+
+<details>
+
+<summary>Change in tag notification text</summary>
+
+09 February 2023
+
+1. Changed the sentence to \[Tagger] tagged you, \[+ other Tagged Users] in the mail. Reason being \[Reason]
+
+</details>
+
 #### Change log - Version 1.1.0
 
 <details>
@@ -11,16 +64,6 @@
 1. User Dashboard optimization completed
 2. Added new check in refresh logic on the user dashboard section
 3. Optimized the workflow analysis section.
-
-</details>
-
-<details>
-
-<summary>Change in tag notification text</summary>
-
-01 February 2023
-
-1. Changed the sentence to \[Tagger] tagged you, \[+ other Tagged Users] in the mail. Reason being \[Reason]
 
 </details>
 
