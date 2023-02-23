@@ -1,5 +1,93 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.1.2
+
+<details>
+
+<summary>Increase the size of the email label name up to 225</summary>
+
+23 February 2023&#x20;
+
+1. Increased the Label name text field size up to 225 characters
+
+</details>
+
+<details>
+
+<summary>Changes in Product edit Popup</summary>
+
+23 February 2023
+
+1\.
+
+
+
+</details>
+
+<details>
+
+<summary> IA- Admin Dashboard- Code optimization to reduce loading time</summary>
+
+23 February 2023
+
+
+
+</details>
+
+<details>
+
+<summary>Show all error codes/warnings search options on the Main Search panel</summary>
+
+23 February 2023
+
+1.
+
+</details>
+
+<details>
+
+<summary>Auto tagging yourself on the manual upload option / fixing W3006 (Feature to turn off/on this feature in settings)</summary>
+
+23 February 2023
+
+1.
+
+
+
+</details>
+
+<details>
+
+<summary>Feature to turn on/off auto-tagging</summary>
+
+23 February 2023
+
+
+
+</details>
+
+<details>
+
+<summary>Email doesn't show the chevron icon to show all the attachments to the mail</summary>
+
+23 February 2023
+
+1.
+
+</details>
+
+<details>
+
+<summary>Change in IA Settings Page to Restrict universal settings only to super admin</summary>
+
+23 February 2023
+
+1.
+
+</details>
+
+
+
 #### Change log - Version 1.1.1
 
 <details>
