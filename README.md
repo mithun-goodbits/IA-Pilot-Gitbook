@@ -54,7 +54,7 @@
 
 <details>
 
-<summary>Auto tagging yourself on the manual upload option / fixing W3006 (Feature to turn off/on this feature in settings)</summary>
+<summary>Auto tagging yourself on the manual upload option / fixing W3006 </summary>
 
 23 February 2023
 
