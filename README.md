@@ -18,7 +18,9 @@
 
 23 February 2023
 
-1\.
+1.Static data is added to a separate tab in the Add and edit product section
+
+
 
 
 
@@ -30,6 +32,10 @@
 
 23 February 2023
 
+1.Convert from ORM queries to direct DB queries
+
+
+
 
 
 </details>
@@ -40,7 +46,9 @@
 
 23 February 2023
 
-1.
+1. Added new error codes in the Main search panel for 422,500,502,504 errors
+
+
 
 </details>
 
@@ -50,7 +58,7 @@
 
 23 February 2023
 
-1.
+1. Added Auto-tagging functionality while doing the manual upload and resolving the W3006 errors
 
 
 
@@ -62,27 +70,31 @@
 
 23 February 2023
 
+1.Added an auto-tagging on/off feature on the settings page
 
 
-</details>
 
-<details>
 
-<summary>Email doesn't show the chevron icon to show all the attachments to the mail</summary>
-
-23 February 2023
-
-1.
 
 </details>
 
 <details>
 
-<summary>Change in IA Settings Page to Restrict universal settings only to super admin</summary>
+<summary>Settings Page Modification</summary>
 
 23 February 2023
 
-1.
+1. Changed IA Settings Page to Restrict universal settings only to super admin
+
+</details>
+
+<details>
+
+<summary>Bug Fixes</summary>
+
+23 February 2023
+
+1. Email doesn't show the chevron icon to show all the attachments to the mail
 
 </details>
 
