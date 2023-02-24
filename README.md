@@ -6,7 +6,7 @@
 
 <summary>Increase the size of the email label name up to 225</summary>
 
-23 February 2023&#x20;
+24 February 2023
 
 1. Increased the Label name text field size up to 225 characters
 
@@ -16,11 +16,9 @@
 
 <summary>Changes in Product edit Popup</summary>
 
-23 February 2023
+24 February 2023
 
-1.Static data is added to a separate tab in the Add and edit product section
-
-
+1\. Static data is added to a separate tab in the Add and edit product section
 
 
 
@@ -30,11 +28,9 @@
 
 <summary> IA- Admin Dashboard- Code optimization to reduce loading time</summary>
 
-23 February 2023
+24 February 2023
 
 1.Convert from ORM queries to direct DB queries
-
-
 
 
 
@@ -44,11 +40,9 @@
 
 <summary>Show all error codes/warnings search options on the Main Search panel</summary>
 
-23 February 2023
+24 February 2023
 
 1. Added new error codes in the Main search panel for 422,500,502,504 errors
-
-
 
 </details>
 
@@ -56,11 +50,9 @@
 
 <summary>Auto tagging yourself on the manual upload option / fixing W3006 </summary>
 
-23 February 2023
+24 February 2023
 
-1. Added Auto-tagging functionality while doing the manual upload and resolving the W3006 errors
-
-
+1. Added Auto-tagging functionality while doing the manual upload and resolving the W3006 errors.
 
 </details>
 
@@ -68,11 +60,9 @@
 
 <summary>Feature to turn on/off auto-tagging</summary>
 
-23 February 2023
+24 February 2023
 
-1.Added an auto-tagging on/off feature on the settings page
-
-
+1\. Added an auto-tagging on/off feature on the settings page
 
 
 
@@ -82,9 +72,40 @@
 
 <summary>Settings Page Modification</summary>
 
-23 February 2023
+24 February 2023
 
 1. Changed IA Settings Page to Restrict universal settings only to super admin
+
+</details>
+
+<details>
+
+<summary>Label Creation</summary>
+
+24 February 2023
+
+1. Added the functionality for the user should be able to create the labels against each email in the user dashboard.
+
+</details>
+
+<details>
+
+<summary>Product Lookup redesign </summary>
+
+24 February 2023
+
+1. Added a separate tab on the product lookup and Add/Edit product page to display the static data coming from the blockchain.
+
+</details>
+
+<details>
+
+<summary>Merge the Cumulative email analysis and Email analysis on one page</summary>
+
+24 February 2023
+
+1. Merged the Cumulative email analysis and email analysis pages as one page and kept the name of the page as Email analysis.
+2. Added “N/A” value for the items in the email analysis section while the stats selected a date range before 02 Feb 2023.
 
 </details>
 
