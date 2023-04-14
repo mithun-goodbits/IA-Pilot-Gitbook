@@ -1,5 +1,42 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.1.3
+
+<details>
+
+<summary>Cumulative Graph Changes</summary>
+
+04 April 2023
+
+1. Updated the cumulative graph to display and provide statistics on “ no action required” emails satisfying the below conditions.
+   * Only published status workflows in the email.
+   * Only HP status workflows in the email
+   * Combination of either published and HP statuses only in the email.
+
+</details>
+
+<details>
+
+<summary>Starred options box be bought to the closest foreground</summary>
+
+04 April 2023
+
+1. Stared options box moved to the closest foreground so the entire box can be seen so that you do not need to scroll to see the cancel, remove star, update options
+
+</details>
+
+<details>
+
+<summary>Warning text changes for email analysis</summary>
+
+04 April 2023
+
+1. Changed the warning text to "IA was not introduced yet. Data Unavailable"  If the date selected is before 05 Dec 2021 (When IA first became live in production). Same should apply to the weekly and monthly selection.
+2. Changed the Warning text to "Cumulative stats not available during this timeframe" if the selected date range is before 03 Feb 2023.
+3. On dealing with the overlapping dates where calculation uses partial data IA will show the warning message as "Data might be inaccurate".
+
+</details>
+
 #### Change log - Version 1.1.2
 
 <details>
