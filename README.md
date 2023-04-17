@@ -1,5 +1,28 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.1.4
+
+<details>
+
+<summary>External link to emails</summary>
+
+17 April 2023
+
+1. Added a textbox in the Individual user settings page
+2. Added the redirection towards the delegated Gmail inbox when the open link is clicked on the email detail section
+
+</details>
+
+<details>
+
+<summary>Corrupted File Processing</summary>
+
+17 April 2023
+
+1. Fixed the Corrupted file issue.
+
+</details>
+
 #### Change log - Version 1.1.3
 
 <details>
