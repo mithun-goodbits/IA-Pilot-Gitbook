@@ -1,5 +1,28 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.1.5
+
+<details>
+
+<summary>Add a start working button to SE5013 "Inactive Product"</summary>
+
+08 April 2023
+
+1. Added start resolving button for Inactive products
+
+</details>
+
+<details>
+
+<summary>Bug Fixes</summary>
+
+08 April 2023
+
+1. Time zone changes affecting the email analysis - "no action" required email count to be updated.
+2. SE5014 "Not a Product" errors are missing the sheet name to identify which tab in the spreadsheet the error came from.
+
+</details>
+
 #### Change log - Version 1.1.4
 
 <details>
