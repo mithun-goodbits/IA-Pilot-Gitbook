@@ -1,5 +1,18 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.1.6
+
+<details>
+
+<summary>Changes in UI for Quarantine Emails</summary>
+
+15 May 2023
+
+1. Move the Quarantine option on the ribbon to under the Others section
+2. Include a start resolving button to Quarantine (can keep the existing delete button)
+
+</details>
+
 #### Change log - Version 1.1.5
 
 <details>
