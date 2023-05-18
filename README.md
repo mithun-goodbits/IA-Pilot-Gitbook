@@ -1,5 +1,27 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.1.7
+
+<details>
+
+<summary>For sender management - add another column to identify the data type for each type of file</summary>
+
+17 May 2023
+
+1. For sender management added another column called Data Type and auto populated for the existing ones
+
+</details>
+
+<details>
+
+<summary>Bug Fixes</summary>
+
+17 May 2023
+
+1. When enabling Start Working and then disabling start working, the workflow status changed to ERROR rather than reverting back to QUARANTINE.
+
+</details>
+
 #### Change log - Version 1.1.6
 
 <details>
