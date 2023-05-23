@@ -1,5 +1,37 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.1.8
+
+<details>
+
+<summary>Changed the text Fund Tag text from "Detailed Asset Allocation" to "APRA 533 Asset Allocation".</summary>
+
+23 May 2023
+
+1. Changed the naming of the "Detailed Asset Allocation" to "APRA 533 Asset Allocation" for the new fund tag model in the pilot when predicting the APRA AA.
+
+</details>
+
+<details>
+
+<summary>Included all IA SE errors in the main search panel, such as the categorized ones (eg SE5001 for HOTQUEUE, SE5004 for EWOA etc)</summary>
+
+23 May 2023
+
+1. Previously, in the Iress user dashboard search panel, we are not displaying categorized errors. So Included all the IA SE errors in the main search panel.
+
+</details>
+
+<details>
+
+<summary>Bug Fixes</summary>
+
+23 May 2023
+
+1. Fixed the Delete functionality which was not working properly.
+
+</details>
+
 #### Change log - Version 1.1.7
 
 <details>
