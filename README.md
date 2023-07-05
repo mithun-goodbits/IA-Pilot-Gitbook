@@ -1,5 +1,38 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.1.9
+
+<details>
+
+<summary>Fund size file Integration</summary>
+
+29 June 2023
+
+1. Added a new model for Fund size integration.
+
+</details>
+
+<details>
+
+<summary>Celery task to Lambda Function Migration</summary>
+
+20 June 2023
+
+1. Updated the existing Celery tasks to the Lambda functions.
+
+</details>
+
+<details>
+
+<summary>Integration of New Prediction Models </summary>
+
+20 June 2023
+
+1. Added an improved Unit price model.
+2. Added a new Fund tag prediction model based on the file's data.
+
+</details>
+
 #### Change log - Version 1.1.8
 
 <details>
