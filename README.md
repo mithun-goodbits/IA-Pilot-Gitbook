@@ -6,9 +6,10 @@
 
 <summary>Fund size file Integration</summary>
 
-29 June 2023
+26 June 2023
 
 1. Added a new model for Fund size integration.
+2. Completed the fund size file processing
 
 </details>
 
