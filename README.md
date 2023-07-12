@@ -1,5 +1,72 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.2.0
+
+<details>
+
+<summary>Update the list of ignoring tabs</summary>
+
+05 July 2023
+
+1. Ignored tabs in the sheet which is having the following names&#x20;
+   * Paste Here
+   * DATA
+   * NAV Spread
+
+</details>
+
+<details>
+
+<summary>Bug Fixes</summary>
+
+05 July 2023
+
+1. Internal Server issue while doing the resolution of W3006 error
+
+</details>
+
+<details>
+
+<summary>HP Status for the Fund size files</summary>
+
+05 July 2023
+
+1. Added the functionality of HP status for the Fund size files.
+
+</details>
+
+<details>
+
+<summary>Logic can be updated when handling invalid date fields(422 Errors)</summary>
+
+05 July 2023
+
+1. If a file contains entries without dates that coincide with entries with (CUM) and (EX) highlighted in the date will create a separate file with an Invalid date error.
+
+</details>
+
+<details>
+
+<summary>Future date Logic change based on past and future date in file</summary>
+
+05 July 2023
+
+1. If we have a future date in a file we will split the files according to past and future dates. So that we will generate 2 files
+   * one is for past(including today) and this will publish to the blockchain
+   * other is for future dates, it will show a future date error
+
+</details>
+
+<details>
+
+<summary>Functionality of when we encounter W3006 future date errors</summary>
+
+05 July 2023
+
+1. Created a separate email entry while resolving W3006 errors.
+
+</details>
+
 #### Change log - Version 1.1.9
 
 <details>
