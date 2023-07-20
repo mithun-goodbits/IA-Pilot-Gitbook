@@ -1,5 +1,54 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.2.2
+
+<details>
+
+<summary>Change logic of SE5021,SE5022 and SE5023</summary>
+
+18 July 2023
+
+1. Changed the Logic of SE5021, SE5022, and SE5023 errors.
+2. When IA predicted 2 prices say VALUE A and VALUE B.\
+   If |VALUE A-VALUE B| divided by MIN(VALUE A, VALUE B) \* 100 >= **Chosen spread value** then we are showing errors based on the Value A and Value B
+
+</details>
+
+<details>
+
+<summary>Add an indication in the UI for the files that are ignored in processing</summary>
+
+18 July 2023
+
+1. Added text in the email summary section to indicate that the file is ignored while processing.
+
+</details>
+
+<details>
+
+<summary>Start resolve button for Review status email attachments</summary>
+
+18 July 2023
+
+1. Added a new status called "Review" For Asset allocation emails.
+2. Added Start resolving functionality for asset allocation emails.
+
+</details>
+
+<details>
+
+<summary>Bug Fixes</summary>
+
+18 July 2023
+
+1. Fixed the Inactive products not able to be resolved by Resolve all option.
+2. Included an extra space before appending the resolving text for SE5028 and W3006 errors.
+3. Fixed the bug in the force publish section(getting future date error while doing force publish).
+
+</details>
+
+####
+
 #### Change log - Version 1.2.1
 
 <details>
