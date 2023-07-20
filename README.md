@@ -1,5 +1,60 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.2.1
+
+<details>
+
+<summary>Add a button to download Standard IMD unit price sheet format</summary>
+
+12 July 2023
+
+1. Added a button to download the Standard IMD unit price sheet format with auto-populated data
+
+</details>
+
+<details>
+
+<summary>Implemented Force Publish feature </summary>
+
+12 July 2023
+
+1. Force Publish feature implemented for IA generated error (SE5028) to handle resolve feature
+
+</details>
+
+<details>
+
+<summary>Add the additional fields in the bulk upload template in product add section</summary>
+
+12 July 2023
+
+1. Added the following additional fields in the bulk upload template
+   * Self-publisher select field
+   * Private select option
+
+</details>
+
+<details>
+
+<summary>Bug Fixes</summary>
+
+12 July 2023
+
+1. Fixed the Emails that are being predicted with reverse dates issue.
+2. Fixed A particular fund-size email had 3 attachments, yet the IA only processed one issue.
+
+</details>
+
+<details>
+
+<summary>Integration of Asset allocation files processing</summary>
+
+12 July 2023
+
+1. Integrated Asset allocation file Processing
+
+</details>
+
 #### Change log - Version 1.2.0
 
 <details>
