@@ -1,5 +1,99 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.2.3
+
+<details>
+
+<summary>Distribution Information text for CPU value predicted files</summary>
+
+01 August 2023
+
+1. Predict certain spreadsheet's CPU value and if predicted, will show a text in the user dashboard for the user to check for distributions.
+
+</details>
+
+<details>
+
+<summary>Handling known password-protected spreadsheets</summary>
+
+01 August 2023
+
+1. Added an input box for adding the password in the Hot queue and edit section
+2. By using the added password IA will process the protected sheet.
+
+</details>
+
+<details>
+
+<summary>Search panel improvements by edited fund tag</summary>
+
+01 August 2023
+
+1. Added a dropdown for Edited Fundtag search in the main search panel
+
+</details>
+
+<details>
+
+<summary>Displaying Mime type in the user dashboard</summary>
+
+01 August 2023
+
+1. Every original attachment has the mime type displayed in the user dashboard.
+
+</details>
+
+<details>
+
+<summary>Input field for adding spread value in the System wide universal settings section</summary>
+
+01 August 2023
+
+1. In the “System-wide universal settings” section added new a field where the spread value can be changed.
+2. The error description for SE5021-23 will change according to the variable field.
+
+</details>
+
+<details>
+
+<summary>Bulk uploading update feature</summary>
+
+01 August 2023
+
+1. Bulk uploading where updating a record if all the fields match then it can still accept the new records that had not been entered yet.
+
+</details>
+
+<details>
+
+<summary>Change the color scheme of Review</summary>
+
+01 August 2023
+
+1. Changed SE5031 Color review from Red to another color scheme
+
+</details>
+
+<details>
+
+<summary>Update the published product details on the Sender management page while doing manual upload</summary>
+
+01 August 2023
+
+1. Products from Manually uploaded files should show up in the sender management/product listing page after successful publishing
+
+</details>
+
+<details>
+
+<summary>Bug Fixes</summary>
+
+01 August 2023
+
+1. Fixed SE5029 error code is not working properly issue
+
+</details>
+
 #### Change log - Version 1.2.2
 
 <details>
