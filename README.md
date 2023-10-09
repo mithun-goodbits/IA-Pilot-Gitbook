@@ -1,5 +1,67 @@
 # IA - Version Change Log
 
+#### Change log - Version 1.2.4
+
+<details>
+
+<summary>Distinguish publishable IMDs and non-publishable IMDs</summary>
+
+03 October 2023
+
+1. All publishable IMDs moved under \imd\published in S3
+2. All non-publishable IMDs should be under\imd\non-published in S3
+
+</details>
+
+<details>
+
+<summary>Storing Publishable IMDs in S3</summary>
+
+03 October 2023
+
+1.  Stored the publishable IMD file in the S3 bucket as per the folder structure:&#x20;
+
+    \<imd>/\<published>/\<year>/\<month>/\<day>/\<file type>/\<filename.xlsx>
+2. The System should use the Numeric month format instead of the existing alphabetical month format.
+
+</details>
+
+<details>
+
+<summary>Storing non-publishable IMDs in S3</summary>
+
+03 October 2023
+
+1.  Stored the non-publishable IMD file in the S3 bucket as per the folder structure:
+
+    \<imd>/\<non-published>/\<year>/\<month>/\<day>/\<file type>/status/\<filename.xlsx>
+
+</details>
+
+<details>
+
+<summary>Able to resolve all the uploaded files catering to the modified S3 folder structure</summary>
+
+03 October 2023
+
+1. IA dashboard links for downloading files work based on the new S3 directory structure
+
+</details>
+
+<details>
+
+<summary>Manage the output files</summary>
+
+03 October 2023
+
+1. Currently, IA has two types of files under the output folder directory.
+   1. Intermediate Output Files - files contain all rows, Invalid, HP, Inactive, Valid, etc.&#x20;
+   2. Processed Output Files - These are separate files for Invalid, HP, Inactive, Valid, etc.
+2. Intermediate Output Files will not display in the IA dashboard.
+3. Error files will not be in the published folder.
+
+</details>
+
 #### Change log - Version 1.2.3
 
 <details>
