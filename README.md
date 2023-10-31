@@ -1,8 +1,6 @@
 # IA - Version Change Log
 
-
-
-#### Change log - Version 1.2.6
+#### Change log - Version 1.2.7
 
 <details>
 
@@ -13,6 +11,8 @@
 1. Removed the unit price and fund size products from publishing in Blockchain gateways.
 
 </details>
+
+#### Change log - Version 1.2.6
 
 <details>
 
