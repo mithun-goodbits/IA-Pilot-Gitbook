@@ -1,5 +1,67 @@
 # IA - Version Change Log
 
+
+
+#### Change log - Version 1.2.6
+
+<details>
+
+<summary>Publishing to BCG is removed</summary>
+
+30 October 2023
+
+1. Removed the unit price and fund size products from publishing in Blockchain gateways.
+
+</details>
+
+<details>
+
+<summary>IA success message to be changed</summary>
+
+25 October 2023
+
+1. Change status to 'Published' once a successful IMD file is generated in S3
+2. The System successfully moves a file to the S3 bucket, the Status should changed to “FD Published” in Backend side.
+3. Currently, the system displays "Success Message: Status Code: 202 - The file has successfully submitted to BCG Gateways." which should change to "Success Message: Status Code: 202 - The file has successfully been created in S3 for Fund Data".
+
+</details>
+
+<details>
+
+<summary>Change the flow of Updating historical price details</summary>
+
+25 October 2023
+
+1. Added the functionality to insert product's unit-price/fund-size details into the IA MongoDB after successfully generating the publishable IMD files in S3
+2. &#x20;These values can be used for HP validations and these validations will work without any price updations from BCG.
+3. Removed the dependency with BCG API/Webhook for uploading prices to IA MongoDB
+
+</details>
+
+<details>
+
+<summary>BCG error codes and warnings to be removed from the IA dashboard</summary>
+
+25 October 2023
+
+1. Removed the BCG error codes and warnings from the IA dashboard for the new email attachments.
+2. Removed the repair queue flow logic. Now onwards no error files will be created based on the BCG error details.
+
+</details>
+
+#### Change log - Version 1.2.5
+
+<details>
+
+<summary>Product lookup Management</summary>
+
+10 October 2023
+
+1. Removed the product static information from the product lookup page
+2. Removed the product static information from Add and Edit product sections
+
+</details>
+
 #### Change log - Version 1.2.4
 
 <details>
